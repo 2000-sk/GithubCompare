@@ -1,0 +1,11 @@
+.container{
+    background-color:pink;
+}
+.result{
+    width:100%;
+    padding:10px 10px 10px 10px;
+
+}
+.result-box{
+    background-color:rgb(105, 103, 103);
+}
