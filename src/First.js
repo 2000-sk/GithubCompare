@@ -35,9 +35,12 @@ export default function First() {
         </div>
         <div>
             {
-                users.map((item)=>{
+                users.map((item,key)=>{
                     return (
                         <div className="result" >
+                            {
+                                console.log
+                            }
                         <div ><b>{item.name}</b></div>
                         
                         <div className="result-box">
